@@ -1,0 +1,8 @@
+.inputStyle {
+    font-size: 20px;
+    width: 80%;
+    margin-top: 30px;
+    border: 2px solid rgb(185, 179, 179);
+    padding: 5px;
+    outline: none;
+}
